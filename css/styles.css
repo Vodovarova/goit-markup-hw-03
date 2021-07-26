@@ -15,7 +15,7 @@ img {
   max-width: 100%;
   height: auto;
 }
-.section {
+.box{
   padding: 94px 0;
 }
 a {
@@ -342,7 +342,7 @@ h1 h2 h3 h4 h5 p {
   margin: 0 auto;
 }
 
-.projects-list {
+.projects{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
