@@ -95,7 +95,6 @@ h1 h2 h3 h4 h5 p {
 }
 
 .link {
-  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -169,7 +168,7 @@ h1 h2 h3 h4 h5 p {
 }
 
 .advantages-item-title {
-  font-family: Roboto, sans-serif;
+  
   font-weight: 700px;
   font-size: 14px;
   line-height: 1.14;
@@ -178,7 +177,7 @@ h1 h2 h3 h4 h5 p {
   color: #212121;
 }
 .advantages-item-text {
-  font-family: Roboto, sans-serif;
+  
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -212,7 +211,6 @@ h1 h2 h3 h4 h5 p {
   background: #f5f4fa;
 }
 .title {
-  font-family: Roboto, sans-serif;
   font-weight: 700px;
   font-size: 36px;
   line-height: 1.16;
@@ -344,7 +342,7 @@ h1 h2 h3 h4 h5 p {
   /* justify-content: space-between; */
 }
 .filters-btn:last-child{
-  margin-right: 0;
+  margin-right: 8px;
 }
 
 .filters-btn:hover,
