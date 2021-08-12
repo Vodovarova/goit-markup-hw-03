@@ -15,7 +15,7 @@ img {
   max-width: 100%;
   height: auto;
 }
-.box{
+.box {
   padding: 94px 0;
 }
 a {
@@ -25,14 +25,14 @@ h1 h2 h3 h4 h5 p {
   margin: 0;
   padding: 0;
 }
-.section{
+.section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
 .container {
   width: 1200px;
   padding: 0px 15px;
-  
+
   margin: 0 auto;
 }
 .header {
@@ -77,11 +77,10 @@ h1 h2 h3 h4 h5 p {
   padding-top: 32px;
   padding-bottom: 32px;
   color: #212121;
-  
 }
-.nav-list li:not(:last-child) a{
+.nav-list li:not(:last-child) a {
   margin-right: 50px;
-} 
+}
 .contacts {
   display: flex;
   align-items: center;
@@ -108,7 +107,7 @@ h1 h2 h3 h4 h5 p {
 :focus {
   color: #2196f3;
 }
-.active{
+.active {
   color: #2196f3;
 }
 
@@ -117,7 +116,6 @@ h1 h2 h3 h4 h5 p {
 .hero {
   padding: 200px 0;
   background: #2f303a;
-
 }
 .hero-title {
   margin: auto;
@@ -173,7 +171,6 @@ h1 h2 h3 h4 h5 p {
 }
 
 .advantages-item-title {
-  
   font-weight: 700px;
   font-size: 14px;
   line-height: 1.14;
@@ -183,7 +180,6 @@ h1 h2 h3 h4 h5 p {
   /* box-sizing: unset!important; */
 }
 .advantages-item-text {
-  
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -193,24 +189,19 @@ h1 h2 h3 h4 h5 p {
 .about {
   margin: 0;
 }
-.about .title{
+.about .title {
   margin-bottom: 0;
 }
 .about-list {
   display: flex;
 }
 
-
-.about-list-item:not(:last-child){
+.about-list-item:not(:last-child) {
   margin-right: 50px;
-
 }
 .about-list-item {
   padding-top: 50px;
-  
 }
-
-
 
 /*-------------------------------------TEAM------------------------------------*/
 .team {
@@ -225,7 +216,6 @@ h1 h2 h3 h4 h5 p {
   color: #212121;
   margin: 0;
   margin-bottom: 50px;
-  
 }
 .team-list {
   display: flex;
@@ -236,7 +226,7 @@ h1 h2 h3 h4 h5 p {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
 }
-.team-item:not(:last-child){
+.team-item:not(:last-child) {
   margin-right: 30px;
 }
 .title-text {
@@ -258,14 +248,10 @@ h1 h2 h3 h4 h5 p {
   color: #757575;
 }
 
-
-
 /* -----------------------------------FOOTER-------------*/
-
 
 .footer_logo {
   display: inline-block;
-  
 }
 .footer_logo {
   font-family: Raleway;
@@ -287,7 +273,6 @@ h1 h2 h3 h4 h5 p {
   color: #ffffff;
 }
 .adress-name {
-  
   margin-bottom: 9px;
 }
 .footer-nav-list {
@@ -312,7 +297,6 @@ h1 h2 h3 h4 h5 p {
 /*--------------------------------PORTFOLIO---------------------------------*/
 
 .catalogue {
-  
   width: 1170px;
   height: 1409px;
   padding: 0;
@@ -347,7 +331,7 @@ h1 h2 h3 h4 h5 p {
   color: #212121;
   /* justify-content: space-between; */
 }
-.filters-btn:last-child{
+.filters-btn:last-child {
   margin-right: 8px;
 }
 
@@ -385,7 +369,7 @@ h1 h2 h3 h4 h5 p {
   margin: 0 auto;
 }
 
-.projects{
+.projects {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -430,4 +414,3 @@ h1 h2 h3 h4 h5 p {
   margin-top: 0;
   color: #757575;
 }
-/*lang="en"
