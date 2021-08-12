@@ -175,6 +175,7 @@ h1 h2 h3 h4 h5 p {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
+  /* box-sizing: unset!important; */
 }
 .advantages-item-text {
   
