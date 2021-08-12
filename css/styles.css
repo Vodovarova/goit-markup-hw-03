@@ -163,8 +163,11 @@ h1 h2 h3 h4 h5 p {
 .advantages-list {
   display: flex;
 }
+.advantages-list li:not(:last-child) {
+  margin-right: 30px;
+}
 .advantages-item {
-  padding: 0 30px;
+  width: 270px;
 }
 .element-padding-bottom-0 {
   padding-bottom: 0;
@@ -189,18 +192,13 @@ h1 h2 h3 h4 h5 p {
 .about {
   margin: 0;
 }
-.about .title {
-  margin-bottom: 0;
-}
+
 .about-list {
   display: flex;
 }
 
 .about-list-item:not(:last-child) {
-  margin-right: 50px;
-}
-.about-list-item {
-  padding-top: 50px;
+  margin-right: 30px;
 }
 
 /*-------------------------------------TEAM------------------------------------*/
